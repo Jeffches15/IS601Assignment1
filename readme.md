@@ -10,6 +10,7 @@ git commands:
 5: git branch: lists your branches $(a * will appear next to the currently active branch)
 6: git merge [branch]: merge the specified branch's history into the current one
 7: git checkout [branch]: switches to another branch and checks it out into your working inventory
+8: git status: shows modified files in working inventory, staged for your next commit
 
 
 Linux commands:
