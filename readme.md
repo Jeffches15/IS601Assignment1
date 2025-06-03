@@ -20,3 +20,4 @@ Linux commands:
 4: ls: list files and directories
 5: cd: change directory
 6: chmod: change file permissions
+7: rm: remove files and directories
