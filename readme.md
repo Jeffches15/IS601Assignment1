@@ -9,6 +9,7 @@ git commands:
 4: git push origin main: uploads your local main branch commits to the main branch on the remote repository named origin
 5: git branch: lists your branches $(a * will appear next to the currently active branch)
 6: git merge [branch]: merge the specified branch's history into the current one
+7: git checkout [branch]: switches to another branch and checks it out into your working inventory
 
 
 Linux commands:
