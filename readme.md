@@ -13,3 +13,4 @@ git commands:
 Linux commands:
 1: mkdir: create a new directory
 2: cat: view contents of a file
+3: pwd: print current directory
