@@ -15,3 +15,4 @@ Linux commands:
 2: cat: view contents of a file
 3: pwd: print current directory
 4: ls: list files and directories
+5: cd: change directory
