@@ -16,3 +16,4 @@ Linux commands:
 3: pwd: print current directory
 4: ls: list files and directories
 5: cd: change directory
+6: chmod: change file permissions
