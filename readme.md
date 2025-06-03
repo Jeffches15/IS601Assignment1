@@ -8,3 +8,7 @@ git commands:
 3: git commit -m "__": commit your staged content as a new commit snapshot (__ represents message typed)
 4: git push origin main: uploads your local main branch commits to the main branch on the remote repository named origin
 5: git branch: lists your branches (a * will appear next to the currently active branch)
+
+
+Linux commands:
+1: mkdir: create a new directory
